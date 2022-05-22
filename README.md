@@ -1,13 +1,14 @@
 # DataSciencePortfolio
 Here is a collection of selected data science projects to demonstrate skill sets, knowledge, interests.
+
 ## Contents
 
-- **Customer Churn:**
+- **Classification:**
 
-- **Bank Loan Default:**
+- **Regression**
 
-- **Computer Vision:**
+- **Time_Series**
 
-- **Ethereum Price Prediction:**
+- **Deep_Learning**
 
-- **Oil Production:** 
+- **Recommendation_Systems** 
