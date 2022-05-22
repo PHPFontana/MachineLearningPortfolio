@@ -11,8 +11,8 @@ Here is a collection of selected data science projects to demonstrate skill sets
 
 - **Regression:** Linear Regression + Regularization methods.
 
-- **Time Series:** ARIMA, Prophet, SARIMA. 
+- **Time Series:** ARIMA, Prophet, SARIMA, mSSA. 
 
-- **Deep Learning:** ANNs, CNNs, GNNs.
+- **Deep Learning:** ANNs, CNNs, NLP.
 
-- **Recommendation Systems:** Self explanatory. 
+- **Recommendation Systems:** Rank-Based, Similarity Collaborative Filtering, Model-Based Collaborative Filtering, Cluster-Based, Content-Based,
