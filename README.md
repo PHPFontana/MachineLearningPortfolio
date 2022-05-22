@@ -3,6 +3,10 @@ Here is a collection of selected data science projects to demonstrate skill sets
 
 ## Contents
 
+- **Clustering:** K-Means, K-Medoid, DBSCAN, GMM, Hierarchical Clustering.
+
+- **Dimensionality Reduction:** t-SNE, PCA.
+
 - **Classification:** Logistic Regression, LDA, QDA, Decision Trees, Random Forest.
 
 - **Regression:** Linear Regression + Regularization methods.
