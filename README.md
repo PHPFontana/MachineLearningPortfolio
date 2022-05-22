@@ -13,6 +13,6 @@ Here is a collection of selected data science projects to demonstrate skill sets
 
 - **Time Series:** ARIMA, Prophet, mSSA. 
 
-- **Deep Learning:** ANNs, CNNs, NLP.
+- **Deep Learning:** ANNs, CNNs, GNNs.
 
 - **Recommendation Systems:** Rank-Based, Similarity Collaborative Filtering, Model-Based Collaborative Filtering, Cluster-Based, Content-Based,
