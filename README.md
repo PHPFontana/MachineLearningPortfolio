@@ -7,8 +7,8 @@ Here is a collection of selected data science projects to demonstrate skill sets
 
 - **Regression**
 
-- **Time_Series**
+- **Time Series**
 
-- **Deep_Learning**
+- **Deep Learning**
 
-- **Recommendation_Systems** 
+- **Recommendation Systems** 
