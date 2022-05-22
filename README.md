@@ -3,7 +3,7 @@ Here is a collection of selected data science projects to demonstrate skill sets
 
 ## Contents
 
-- **Classification:**
+- **Classification**
 
 - **Regression**
 
