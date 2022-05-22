@@ -3,12 +3,12 @@ Here is a collection of selected data science projects to demonstrate skill sets
 
 ## Contents
 
-- **Classification**
+- **Classification:** Logistic Regression, LDA, QDA, Decision Trees, Random Forest.
 
-- **Regression**
+- **Regression:** Linear Regression + Regularization methods.
 
-- **Time Series**
+- **Time Series:** ARIMA, Prophet, SARIMA. 
 
-- **Deep Learning**
+- **Deep Learning:** ANNs, CNNs, GNNs.
 
-- **Recommendation Systems** 
+- **Recommendation Systems:** Self explanatory. 
