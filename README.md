@@ -7,11 +7,11 @@ Here is a collection of selected data science projects to demonstrate skill sets
 
 - **Dimensionality Reduction:** t-SNE, PCA.
 
-- **Classification:** Logistic Regression, LDA, QDA, Decision Trees, Random Forest.
+- **Classification:** Logistic Regression, SVMs, KNN, Tree-Based Methods.
 
-- **Regression:** OLS Regression.
+- **Regression:** OLS Regression, Lasso Regression, Ridge Regression
 
-- **Time Series:** ARIMA, Prophet, mSSA. 
+- **Time Series:** AR, MA, ARMA, ARIMA, SARIMA, Prophet, mSSA. 
 
 - **Deep Learning:** ANNs, CNNs, GNNs.
 
