@@ -1,5 +1,4 @@
-# MachineLearningPortfolio
-Here is a collection of selected data science projects to demonstrate skill sets, knowledge, interests.
+# MachineLearning ToolBox
 
 ## Contents
 
@@ -7,15 +6,17 @@ Here is a collection of selected data science projects to demonstrate skill sets
 
 - **Dimensionality Reduction:** t-SNE, PCA.
 
-- **Classification:** Logistic Regression, KNN, Tree-Based Methods.
+- **Classification:** Logistic Regression, KNN, XGBoost, LightBoost, CatBoost
 
 - **Regression:** OLS Regression, Lasso Regression, Ridge Regression
 
-- **Time Series:** AR, MA, ARMA, ARIMA, SARIMA, Prophet, mSSA. 
+- **Time Series:** SARIMA, Prophet, mSSA, LSTMs, DeepAR, Temporal Fusion Transformer
 
-- **Deep Learning:** ANNs, CNNs.
+- **Deep Learning:** ANNs, CNNs, RNNs, GANs
 
-- **Recommendation Systems:** Rank-Based, Similarity Collaborative Filtering, Model-Based Collaborative Filtering, Cluster-Based, Content-Based.
+- **Upsampling Methods:** SMOTE, ADASYN
+
+- **Tuning Methods:** GridSearch, RandomSearch, Bayesian Optimisation, Gradient-Based Optimisation
 
 
 ## References
