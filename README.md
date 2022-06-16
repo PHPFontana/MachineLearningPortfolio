@@ -18,6 +18,8 @@
 
 - **Tuning Methods:** GridSearch, RandomSearch, Bayesian Optimisation, Gradient-Based Optimisation
 
+- **Object Tracking**: OpenCV 
+
 
 ## References
 
