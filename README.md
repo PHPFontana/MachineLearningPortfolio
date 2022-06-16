@@ -1,6 +1,6 @@
 # MachineLearning ToolBox
 
-## Contents
+## Tools
 
 - **Clustering:** K-Means, K-Medoid, DBSCAN, GMM, Hierarchical Clustering.
 
@@ -20,6 +20,23 @@
 
 - **Object Tracking**: OpenCV 
 
+## Content
+----------
+- **Machine Translation**
+
+- **Object Tracking**
+
+- **Speech Recognition**
+
+- **Regression**
+
+- **Image Classification**
+
+- **Classification**
+
+- **Recommendation System**
+
+- **Fake News Detection**
 
 ## References
 
